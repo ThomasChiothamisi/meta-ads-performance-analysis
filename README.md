@@ -36,3 +36,10 @@ The Power BI analysis includes a data model showing the relationships between th
 - Increase budget in Japan and Mexico to evaluate scalability, as these markets show higher conversion efficiency and may provide lower-cost acquisition opportunities.
 - Optimize targeting strategy in lower-converting regions by refining audience segmentation and ad creatives to improve click-to-purchase performance.
 - Prioritize female audience segment due to significantly higher engagement volume while maintaining similar efficiency levels with male audience. 
+
+**Tools & Technologies**
+
+- Excel: Data preparation and cleaning
+- SQL Server: Data querying and performance analysis
+- Power BI: Data modelling and dashboard visualisation
+- GitHub: Project documentation and portfolio presentation
