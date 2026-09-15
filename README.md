@@ -7,13 +7,13 @@ The SQL analysis uses SQL Server to examine campaign performance, user engagemen
 
 Key areas include:
 
-Click Through Rate
-Conversion Rate
-Performance by Country
-Performance by Target Gender
-Total Clicks
-Total Enagements
-Total Impressions
+- Click Through Rate
+- Conversion Rate
+- Performance by Country
+- Performance by Target Gender
+- Total Clicks
+- Total Enagements
+- Total Impressions
 
 [View SQL Query Screenshots](./SQL%20Queries)
 
