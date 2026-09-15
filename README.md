@@ -19,4 +19,6 @@ Key areas include:
 
 **Power BI Analysis**
 
-Interactive Power BI visualisations are used to present key findings and performance trends from the analysis.
+The Power BI analysis includes a data model showing the relationships between the datasets, along with dashboard visualisations presenting key findings and performance trends from the analysis.
+
+[View Power BI Screenshots](./Power%20BI)
