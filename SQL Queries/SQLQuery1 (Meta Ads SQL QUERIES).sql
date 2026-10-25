@@ -1,28 +1,4 @@
-SELECT TOP 5 *
-FROM ad_events
-
-SELECT * FROM ads;
-
-SELECT * FROM campaigns;
-
-SELECT COLUMN_NAME,
-DATA_TYPE,
-IS_NULLABLE
-
-FROM INFORMATION_SCHEMA.COLUMNS 
-
-ALTER TABLE campaigns
-ALTER COLUMN total_budget DECIMAL(10,2) NOT NULL
-
-SELECT * FROM users;
-
---------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-SELECT ad_platform, event_type
-FROM ads 
-JOIN ad_events
-ON ads.ad_id=ad_events.ad_id
-WHERE ad_platform = 'Facebook' AND event_type = 'Impression';
+----------------META Ads Performance Analysis----------------
 
 ---------------------------------------Total Impressions For Both Platforms-----------------
 SELECT ad_platform, COUNT(event_type) AS impressions
