@@ -15,13 +15,13 @@ Key areas include:
 - Total Enagements
 - Total Impressions
 
-[View SQL Query Screenshots](./SQL%20Queries)
+[View SQL Query Script & Screenshots](./SQL%20Queries)
 
 **Power BI Analysis**
 
 The Power BI analysis includes a data model showing the relationships between the datasets, along with dashboard visualisations presenting key findings and performance trends from the analysis. This dashboard provides a high-level overview of a Meta Ads campaign’s performance, tracking key metrics such as impressions, engagement rates, and conversion rates across different audience segments and ad platforms. It highlights how users interacted with the ads and helps identify which channels and demographics delivered the strongest results. The visual breakdown enables quick performance comparisons and supports data-driven decisions for campaign optimization and budget allocation.
 
-[View Power BI Screenshots](./Power%20BI)
+[View Power BI Dashboard & Screenshots](./Power%20BI)
 
 **Key Insights**
 
